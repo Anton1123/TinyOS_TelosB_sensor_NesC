@@ -1,0 +1,201 @@
+*********************************
+Starting transmission...
+*********************************
+Radio Listen begun successfully.
+Sending a priority packet with ID# 1.
+Sample values sent:
+2523 (#0) 2515 (#1) 2055 (#2) 2379 (#4) 1891 (#7) 
+
+ACK for a priority packet with ID# 1 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 2.
+Sample values sent:
+2347 (#10) 1831 (#12) 2267 (#3) 2183 (#5) 2143 (#11) 
+
+ACK for a priority packet with ID# 2 received.
+---------------------------------------------------------
+
+Sending a non-priority packet with ID# 3.
+Sample values sent:
+2003 (#6) 2143 (#8) 2223 (#9) 2035 (#13) 2171 (#14) 
+
+Sending a priority packet with ID# 4.
+Sample values sent:
+2395 (#15) 2203 (#16) 2307 (#17) 2259 (#18) 2427 (#21) 
+
+ACK for a priority packet with ID# 4 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 5.
+Sample values sent:
+2303 (#22) 2363 (#23) 2075 (#26) 2291 (#24) 2115 (#25) 
+
+ACK for a priority packet with ID# 5 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 6.
+Sample values sent:
+2299 (#28) 2299 (#29) 2219 (#30) 2531 (#32) 2239 (#27) 
+
+ACK for a priority packet with ID# 6 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 7.
+Sample values sent:
+1979 (#34) 2175 (#37) 2479 (#31) 2175 (#33) 2051 (#35) 
+
+ACK for a priority packet with ID# 7 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 8.
+Sample values sent:
+1431 (#38) 2635 (#42) 1911 (#44) 2267 (#47) 2155 (#36) 
+
+ACK for a priority packet with ID# 8 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 9.
+Sample values sent:
+1791 (#49) 2447 (#52) 2083 (#39) 2267 (#43) 1951 (#45) 
+
+ACK for a priority packet with ID# 9 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 10.
+Sample values sent:
+2003 (#55) 2163 (#46) 1891 (#48) 2219 (#50) 2415 (#53) 
+
+ACK for a priority packet with ID# 10 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 11.
+Sample values sent:
+2171 (#58) 1919 (#59) 2199 (#54) 2091 (#56) 2391 (#62) 
+
+ACK for a priority packet with ID# 11 received.
+---------------------------------------------------------
+
+Sending a non-priority packet with ID# 12.
+Sample values sent:
+2335 (#19) 2563 (#41) 2375 (#51) 2223 (#60) 2279 (#67) 
+
+Sending a priority packet with ID# 13.
+Sample values sent:
+2451 (#63) 1919 (#65) 2315 (#68) 1867 (#69) 2547 (#72) 
+
+ACK for a priority packet with ID# 13 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 14.
+Sample values sent:
+1951 (#74) 2315 (#77) 2359 (#64) 2147 (#66) 2147 (#70) 
+
+ACK for a priority packet with ID# 14 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 15.
+Sample values sent:
+2103 (#78) 2435 (#71) 2523 (#73) 2067 (#75) 2247 (#76) 
+
+ACK for a priority packet with ID# 15 received.
+---------------------------------------------------------
+
+Sending a non-priority packet with ID# 16.
+Sample values sent:
+2311 (#80) 2343 (#81) 2447 (#82) 2139 (#87) 2371 (#20) 
+
+Sending a priority packet with ID# 17.
+Sample values sent:
+2519 (#84) 1823 (#86) 2315 (#89) 1807 (#91) 2131 (#79) 
+
+ACK for a priority packet with ID# 17 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 18.
+Sample values sent:
+2527 (#94) 1823 (#96) 2227 (#85) 2007 (#90) 2307 (#92) 
+
+ACK for a priority packet with ID# 18 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 19.
+Sample values sent:
+2459 (#98) 1451 (#100) 2435 (#102) 2007 (#95) 2231 (#97) 
+
+ACK for a priority packet with ID# 19 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 20.
+Sample values sent:
+2363 (#103) 2407 (#104) 2339 (#105) 2475 (#106) 1903 (#99) 
+
+ACK for a priority packet with ID# 20 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 21.
+Sample values sent:
+1763 (#109) 2259 (#112) 2079 (#101) 1807 (#110) 2067 (#111) 
+
+ACK for a priority packet with ID# 21 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 22.
+Sample values sent:
+2227 (#113) 2227 (#114) 1467 (#116) 1971 (#115) 1527 (#117) 
+
+ACK for a priority packet with ID# 22 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 23.
+Sample values sent:
+2283 (#119) 1927 (#120) 2475 (#121) 2231 (#122) 2219 (#118) 
+
+ACK for a priority packet with ID# 23 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 24.
+Sample values sent:
+2327 (#123) 1563 (#125) 2863 (#127) 1695 (#124) 2275 (#126) 
+
+ACK for a priority packet with ID# 24 received.
+---------------------------------------------------------
+
+Sending a non-priority packet with ID# 25.
+Sample values sent:
+2171 (#88) 2011 (#107) 2007 (#108) 2059 (#129) 2371 (#40) 
+
+Sending a priority packet with ID# 26.
+Sample values sent:
+1915 (#130) 2123 (#131) 1859 (#132) 2231 (#133) 1883 (#134) 
+
+ACK for a priority packet with ID# 26 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 27.
+Sample values sent:
+2547 (#139) 1779 (#141) 2335 (#128) 2195 (#136) 2415 (#137) 
+
+ACK for a priority packet with ID# 27 received.
+---------------------------------------------------------
+
+Sending a priority packet with ID# 28.
+Sample values sent:
+2331 (#145) 1603 (#147) 1919 (#140) 2291 (#144) 2048 (#146) 
+
+ACK for a priority packet with ID# 28 received.
+---------------------------------------------------------
+
+Sending a non-priority packet with ID# 29.
+Sample values sent:
+2507 (#138) 2139 (#142) 2159 (#152) 2143 (#57) 2295 (#61) 
+
+Starting Dump...
+Sending a priority packet with ID# 30
+Sample values sent:
+2731 (#150) 2111 (#153) 2031 (#154) 2095 (#148) 2667 (#149) 
+
+End of transmission. All 155 data readings sent.
+ACK for a priority packet with ID# 30 received.
+---------------------------------------------------------
+
